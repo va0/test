@@ -1,0 +1,6 @@
+﻿  MoveSemantics.cpp
+C:\Users\Filip\source\repos\Learning6\MoveSemantics.cpp(70,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Filip\source\repos\Learning6\MoveSemantics.cpp(138,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Filip\source\repos\Learning6\MoveSemantics.cpp(150,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Filip\source\repos\Learning6\MoveSemantics.cpp(151,17): warning C4305: '+=': truncation from 'double' to 'float'
+  Learning6.vcxproj -> C:\Users\Filip\source\repos\Learning6\Debug\Learning6.exe
