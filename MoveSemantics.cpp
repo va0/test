@@ -151,5 +151,7 @@ void main()
 	float zmiana = atof(strFl.c_str());
 	zmiana += 0.031;
 	cout << zmiana << endl;
+
+	cout << "Nowa zmiana for git\n";
 }
 
