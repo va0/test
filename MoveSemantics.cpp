@@ -155,5 +155,20 @@ void main()
 	cout << "Nowa zmiana for git\n";
 	cout << "Experymentalna wersja ktora weszla w zycie na master\n";
 	cout << "new\n";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	cout << "Zmiana od u6064525\n";
 }
 
