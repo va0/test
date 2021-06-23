@@ -154,5 +154,7 @@ void main()
 
 	cout << "Nowa zmiana for git\n";
 	cout << "Experymentalna wersja\n";
+
+	MessageBoxA(NULL, "EXP", "Header", MB_OK);
 }
 
