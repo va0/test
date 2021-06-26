@@ -4,6 +4,7 @@
 #include <ctime>
 #include <stdlib.h>
 #include "MoveSemantics.h"
+#include "Empty.h"
 
 using std::cout;
 using std::endl;
@@ -170,5 +171,7 @@ void main()
 
 
 	cout << "Zmiana od u6064525\n";
+
+	void Empty(int, int);
 }
 
