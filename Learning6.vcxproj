@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClInclude Include="MoveSemantics.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Empty.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
