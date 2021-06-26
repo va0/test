@@ -153,7 +153,7 @@ void main()
 	cout << zmiana << endl;
 
 	cout << "Nowa zmiana for git\n";
-	cout << "Experymentalna wersja\n";
+	cout << "Experymentalnaccc wersja\n";
 
 	MessageBoxA(NULL, "EXP", "Header", MB_OK);
 }
