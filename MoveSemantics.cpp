@@ -170,5 +170,8 @@ void main()
 
 
 	cout << "Zmiana od u6064525\n";
+
+	cout << "Sobota! Hura!\n";
+
 }
 
