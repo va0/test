@@ -177,6 +177,7 @@ void main()
 
 
 	void Empty(int, int);
+	void NullArea(void);
 
 }
 
