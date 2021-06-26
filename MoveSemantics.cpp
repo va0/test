@@ -183,6 +183,7 @@ void main()
 
 
 	cout << "OK!\n";
+	cout << "obiad!\n";
 
 }
 
