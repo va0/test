@@ -178,5 +178,7 @@ void main()
 
 	void Empty(int, int);
 
+	cout << "Jutro niedziela!\n";
+
 }
 
