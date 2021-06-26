@@ -181,5 +181,8 @@ void main()
 
 	cout << "Jutro niedziela!\n";
 
+
+	cout << "OK!\n";
+
 }
 
